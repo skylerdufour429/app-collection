@@ -1,0 +1,10 @@
+{
+  "id": 20,
+  "name": "ArtikPix",
+  "bundleId": "com.rinnapps.artikpix.iap",
+  "version": "1.2.4",
+  "platform": "iOS",
+  "minimumOS": "3.1",
+  "binarySize": "41.4 MB",
+  "archiveAvailable": false
+}

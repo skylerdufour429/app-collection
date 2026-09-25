@@ -1,0 +1,10 @@
+{
+  "id": 15,
+  "name": "Virtuoso",
+  "bundleId": "com.peterb.virtuosopianofree",
+  "version": "3.1.2",
+  "platform": "iOS",
+  "minimumOS": "4.0",
+  "binarySize": "19.9 MB",
+  "archiveAvailable": false
+}

@@ -1,0 +1,1 @@
+console.log("Metadata-only project scaffold");

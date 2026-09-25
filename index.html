@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IPA Archive — App Collection</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">GitHub Pages • Codespaces ready</p>
+    <h1>IPA Archive</h1>
+    <p>Browse a catalog of 20 historical iOS app metadata records. This demo contains no proprietary IPA binaries.</p>
+    <input id="search" aria-label="Search apps" placeholder="Search by app name or bundle ID…">
+  </div>
+</header>
+<main class="wrap">
+  <section class="toolbar">
+    <strong id="count"></strong>
+    <select id="sort"><option value="name">Name</option><option value="version">Version</option><option value="size">Binary size</option></select>
+  </section>
+  <section id="grid" class="grid"></section>
+</main>
+<footer class="wrap">Demo catalog • Metadata supplied for the example • No IPA binaries included</footer>
+<script src="app.js"></script>
+</body>
+</html>

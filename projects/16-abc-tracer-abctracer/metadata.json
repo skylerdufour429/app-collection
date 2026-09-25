@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "name": "ABC Tracer",
+  "bundleId": "com.appzoo.ABCTracer",
+  "version": "1.8",
+  "platform": "iOS",
+  "minimumOS": "2.2.1",
+  "binarySize": "20.9 MB",
+  "archiveAvailable": false
+}

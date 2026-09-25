@@ -1,0 +1,10 @@
+{
+  "id": 12,
+  "name": "Farm Story",
+  "bundleId": "com.teamlava.farmstory",
+  "version": "1.2",
+  "platform": "iOS",
+  "minimumOS": "3.0",
+  "binarySize": "19.9 MB",
+  "archiveAvailable": false
+}

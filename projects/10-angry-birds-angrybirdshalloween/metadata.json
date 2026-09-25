@@ -1,0 +1,10 @@
+{
+  "id": 10,
+  "name": "Angry Birds",
+  "bundleId": "com.rovio.AngryBirdsHalloween",
+  "version": "1.5.3",
+  "platform": "iOS",
+  "minimumOS": "3.0",
+  "binarySize": "16.8 MB",
+  "archiveAvailable": false
+}
