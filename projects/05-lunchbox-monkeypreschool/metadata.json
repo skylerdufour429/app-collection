@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "name": "Lunchbox",
+  "bundleId": "com.thup.MonkeyPreschool",
+  "version": "1.4",
+  "platform": "iOS",
+  "minimumOS": "3.0",
+  "binarySize": "13.7 MB",
+  "archiveAvailable": false
+}

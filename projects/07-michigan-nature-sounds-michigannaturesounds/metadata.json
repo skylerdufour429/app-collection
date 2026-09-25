@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "name": "Michigan Nature Sounds",
+  "bundleId": "com.yourcompany.MichiganNatureSounds",
+  "version": "1.0",
+  "platform": "iOS",
+  "minimumOS": "3.0",
+  "binarySize": "24.6 MB",
+  "archiveAvailable": false
+}

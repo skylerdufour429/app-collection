@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "SoundTouch",
+  "bundleId": "com.yourcompany.SoundTouch",
+  "version": "1.4",
+  "platform": "iOS",
+  "minimumOS": "3.0",
+  "binarySize": "155.5 MB",
+  "archiveAvailable": false
+}

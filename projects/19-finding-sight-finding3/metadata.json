@@ -1,0 +1,10 @@
+{
+  "id": 19,
+  "name": "Finding Sight",
+  "bundleId": "my.finding3",
+  "version": "2.1",
+  "platform": "iOS",
+  "minimumOS": "3.2",
+  "binarySize": "34 MB",
+  "archiveAvailable": false
+}
